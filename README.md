@@ -38,3 +38,5 @@ Ollama<br>
 Llama 3<br>
 Communication<br>
 JSON (API data exchange)<br>
+Author<br>
+Soufik Aktar - [GitHub Profile](https://github.com/UnexpectedCoding)
